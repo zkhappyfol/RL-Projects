@@ -1,0 +1,1981 @@
+
+Episode: 11, Reward: -110.69
+
+Episode: 12, Reward: -130.47
+
+Episode: 13, Reward: -120.50
+
+Episode: 14, Reward: -114.74
+
+Episode: 15, Reward: -120.34
+
+Episode: 16, Reward: -114.75
+
+Episode: 17, Reward: -133.77
+
+Episode: 18, Reward: -105.36
+
+Episode: 19, Reward: -120.38
+
+Episode: 20, Reward: -113.70
+
+Episode: 21, Reward: -104.24
+
+Episode: 22, Reward: -106.80
+
+Episode: 23, Reward: -103.15
+
+Episode: 24, Reward: -109.38
+
+Episode: 25, Reward: -208.10
+
+Episode: 26, Reward: -106.79
+
+Episode: 27, Reward: -123.42
+
+Episode: 28, Reward: -119.20
+
+Episode: 29, Reward: -114.22
+
+Episode: 30, Reward: -106.61
+
+Episode: 31, Reward: -114.21
+
+Episode: 32, Reward: -102.27
+
+Episode: 33, Reward: -116.50
+
+Episode: 34, Reward: -108.14
+
+Episode: 35, Reward: -110.16
+
+Episode: 36, Reward: -209.60
+
+Episode: 37, Reward: -120.69
+
+Episode: 38, Reward: -103.42
+
+Episode: 39, Reward: -115.99
+
+Episode: 40, Reward: -107.69
+
+Episode: 41, Reward: -109.93
+
+Episode: 42, Reward: -125.49
+
+Episode: 43, Reward: -106.86
+
+Episode: 44, Reward: -127.69
+
+Episode: 45, Reward: -105.69
+
+Episode: 46, Reward: -103.19
+
+Episode: 47, Reward: -107.89
+
+Episode: 48, Reward: -117.39
+
+Episode: 49, Reward: -112.05
+
+Episode: 50, Reward: -106.44
+
+Episode: 51, Reward: -103.29
+
+Episode: 52, Reward: -121.15
+
+Episode: 53, Reward: -117.87
+
+Episode: 54, Reward: -104.56
+
+Episode: 55, Reward: -105.69
+
+Episode: 56, Reward: -100.12
+
+Episode: 57, Reward: -95.03
+
+Episode: 58, Reward: -101.28
+
+Episode: 59, Reward: -130.01
+
+Episode: 60, Reward: -115.82
+
+Episode: 61, Reward: -111.50
+
+Episode: 62, Reward: -104.09
+
+Episode: 63, Reward: -106.41
+
+Episode: 64, Reward: -106.41
+
+Episode: 65, Reward: -115.45
+
+Episode: 66, Reward: -113.63
+
+Episode: 67, Reward: -113.68
+
+Episode: 68, Reward: -117.39
+
+Episode: 69, Reward: -118.77
+
+Episode: 70, Reward: -117.54
+
+Episode: 71, Reward: -102.37
+
+Episode: 72, Reward: -158.52
+
+Episode: 73, Reward: -115.20
+
+Episode: 74, Reward: -104.76
+
+Episode: 75, Reward: -117.31
+
+Episode: 76, Reward: -103.57
+
+Episode: 77, Reward: -103.97
+
+Episode: 78, Reward: -105.28
+
+Episode: 79, Reward: -111.32
+
+Episode: 80, Reward: -126.41
+
+Episode: 81, Reward: -104.06
+
+Episode: 82, Reward: -106.68
+
+Episode: 83, Reward: -116.55
+
+Episode: 84, Reward: -124.87
+
+Episode: 85, Reward: -102.64
+
+Episode: 86, Reward: -107.37
+
+Episode: 87, Reward: -102.94
+
+Episode: 88, Reward: -114.88
+
+Episode: 89, Reward: -99.21
+
+Episode: 90, Reward: -120.52
+
+Episode: 91, Reward: -119.85
+
+Episode: 92, Reward: -115.22
+
+Episode: 93, Reward: -111.34
+
+Episode: 94, Reward: -118.26
+
+Episode: 95, Reward: -113.28
+
+Episode: 96, Reward: -117.18
+
+Episode: 97, Reward: -96.84
+
+Episode: 98, Reward: -105.09
+
+Episode: 99, Reward: -100.71
+
+Episode: 100, Reward: -109.72
+
+Episode: 101, Reward: -104.63
+
+Episode: 102, Reward: -110.61
+
+Episode: 103, Reward: -108.01
+
+Episode: 104, Reward: -113.71
+
+Episode: 105, Reward: -109.10
+
+Episode: 106, Reward: -112.85
+
+Episode: 107, Reward: -114.04
+
+Episode: 108, Reward: -105.93
+
+Episode: 109, Reward: -115.34
+
+Episode: 110, Reward: -111.32
+
+Episode: 111, Reward: -108.19
+
+Episode: 112, Reward: -98.12
+
+Episode: 113, Reward: -105.26
+
+Episode: 114, Reward: -111.73
+
+Episode: 115, Reward: -91.75
+
+Episode: 116, Reward: -103.21
+
+Episode: 117, Reward: -105.95
+
+Episode: 118, Reward: -107.14
+
+Episode: 119, Reward: -105.65
+
+Episode: 120, Reward: -105.40
+
+Episode: 121, Reward: -103.08
+
+Episode: 122, Reward: -97.00
+
+Episode: 123, Reward: -109.69
+
+Episode: 124, Reward: -94.76
+
+Episode: 125, Reward: -109.80
+
+Episode: 126, Reward: -102.96
+
+Episode: 127, Reward: -102.47
+
+Episode: 128, Reward: -88.67
+
+Episode: 129, Reward: -101.85
+
+Episode: 130, Reward: -105.84
+
+Episode: 131, Reward: -102.33
+
+Episode: 132, Reward: -99.17
+
+Episode: 133, Reward: -106.70
+
+Episode: 134, Reward: -124.61
+
+Episode: 135, Reward: -102.42
+
+Episode: 136, Reward: -99.25
+
+Episode: 137, Reward: -94.78
+
+Episode: 138, Reward: -107.35
+
+Episode: 139, Reward: -101.47
+
+Episode: 140, Reward: -114.28
+
+Episode: 141, Reward: -107.81
+
+Episode: 142, Reward: -114.15
+
+Episode: 143, Reward: -112.86
+
+Episode: 144, Reward: -91.95
+
+Episode: 145, Reward: -111.86
+
+Episode: 146, Reward: -119.03
+
+Episode: 147, Reward: -88.52
+
+Episode: 148, Reward: -116.37
+
+Episode: 149, Reward: -109.70
+
+Episode: 150, Reward: -89.59
+
+Episode: 151, Reward: -114.74
+
+Episode: 152, Reward: -86.88
+
+Episode: 153, Reward: -94.11
+
+Episode: 154, Reward: -108.68
+
+Episode: 155, Reward: -113.80
+
+Episode: 156, Reward: -113.26
+
+Episode: 157, Reward: -117.64
+
+Episode: 158, Reward: -109.14
+
+Episode: 159, Reward: -77.33
+
+Episode: 160, Reward: -110.31
+
+Episode: 161, Reward: -122.64
+
+Episode: 162, Reward: -112.85
+
+Episode: 163, Reward: -88.88
+
+Episode: 164, Reward: -117.11
+
+Episode: 165, Reward: -109.63
+
+Episode: 166, Reward: -115.84
+
+Episode: 167, Reward: -109.71
+
+Episode: 168, Reward: -77.58
+
+Episode: 169, Reward: -109.11
+
+Episode: 170, Reward: -94.31
+
+Episode: 171, Reward: -108.37
+
+Episode: 172, Reward: -115.84
+
+Episode: 173, Reward: -103.89
+
+Episode: 174, Reward: -97.89
+
+Episode: 175, Reward: -113.54
+
+Episode: 176, Reward: -112.07
+
+Episode: 177, Reward: -92.96
+
+Episode: 178, Reward: -110.99
+
+Episode: 179, Reward: -92.11
+
+Episode: 180, Reward: -90.06
+
+Episode: 181, Reward: -119.27
+
+Episode: 182, Reward: -121.74
+
+Episode: 183, Reward: -105.21
+
+Episode: 184, Reward: -125.24
+
+Episode: 185, Reward: -89.40
+
+Episode: 186, Reward: -72.93
+
+Episode: 187, Reward: -93.99
+
+Episode: 188, Reward: -104.61
+
+Episode: 189, Reward: -114.15
+
+Episode: 190, Reward: -89.71
+
+Episode: 191, Reward: -119.61
+
+Episode: 192, Reward: -93.94
+
+Episode: 193, Reward: -91.74
+
+Episode: 194, Reward: -115.75
+
+Episode: 195, Reward: -96.39
+
+Episode: 196, Reward: -98.58
+
+Episode: 197, Reward: -118.50
+
+Episode: 198, Reward: -116.96
+
+Episode: 199, Reward: -103.74
+
+Episode: 200, Reward: -115.22
+
+Episode: 201, Reward: -92.57
+
+Episode: 202, Reward: -92.35
+
+Episode: 203, Reward: -130.16
+
+Episode: 204, Reward: -93.32
+
+Episode: 205, Reward: -92.66
+
+Episode: 206, Reward: -116.34
+
+Episode: 207, Reward: -93.43
+
+Episode: 208, Reward: -89.14
+
+Episode: 209, Reward: -93.59
+
+Episode: 210, Reward: -88.69
+
+Episode: 211, Reward: -104.47
+
+Episode: 212, Reward: -87.14
+
+Episode: 213, Reward: -75.48
+
+Episode: 214, Reward: -87.29
+
+Episode: 215, Reward: -78.96
+
+Episode: 216, Reward: -81.03
+
+Episode: 217, Reward: -75.54
+
+Episode: 218, Reward: -74.86
+
+Episode: 219, Reward: -87.60
+
+Episode: 220, Reward: -93.21
+
+Episode: 221, Reward: -79.42
+
+Episode: 222, Reward: -79.13
+
+Episode: 223, Reward: -79.24
+
+Episode: 224, Reward: -75.72
+
+Episode: 225, Reward: -75.88
+
+Episode: 226, Reward: -78.62
+
+Episode: 227, Reward: -74.53
+
+Episode: 228, Reward: -70.95
+
+Episode: 229, Reward: -66.29
+
+Episode: 230, Reward: -86.04
+
+Episode: 231, Reward: -73.15
+
+Episode: 232, Reward: -71.86
+
+Episode: 233, Reward: -70.96
+
+Episode: 234, Reward: -112.82
+
+Episode: 235, Reward: -115.26
+
+Episode: 236, Reward: -110.00
+
+Episode: 237, Reward: -119.42
+
+Episode: 238, Reward: -166.21
+
+Episode: 239, Reward: -66.79
+
+Episode: 240, Reward: -123.27
+
+Episode: 241, Reward: -72.87
+
+Episode: 242, Reward: -148.82
+
+Episode: 243, Reward: -72.13
+
+Episode: 244, Reward: -69.54
+
+Episode: 245, Reward: -61.62
+
+Episode: 246, Reward: -71.43
+
+Episode: 247, Reward: -89.03
+
+Episode: 248, Reward: -76.46
+
+Episode: 249, Reward: -116.37
+
+Episode: 250, Reward: -82.49
+
+Episode: 251, Reward: -111.23
+
+Episode: 252, Reward: -136.97
+
+Episode: 253, Reward: -109.61
+
+Episode: 254, Reward: -153.22
+
+Episode: 255, Reward: -67.35
+
+Episode: 256, Reward: -65.91
+
+Episode: 257, Reward: -66.12
+
+Episode: 258, Reward: -70.25
+
+Episode: 259, Reward: -79.33
+
+Episode: 260, Reward: -72.10
+
+Episode: 261, Reward: -121.49
+
+Episode: 262, Reward: -81.94
+
+Episode: 263, Reward: -87.87
+
+Episode: 264, Reward: -84.71
+
+Episode: 265, Reward: -155.79
+
+Episode: 266, Reward: -115.52
+
+Episode: 267, Reward: -61.64
+
+Episode: 268, Reward: -61.18
+
+Episode: 269, Reward: -170.76
+
+Episode: 270, Reward: -71.29
+
+Episode: 271, Reward: -67.65
+
+Episode: 272, Reward: -59.98
+
+Episode: 273, Reward: -71.68
+
+Episode: 274, Reward: -69.11
+
+Episode: 275, Reward: -64.59
+
+Episode: 276, Reward: -70.53
+
+Episode: 277, Reward: -79.76
+
+Episode: 278, Reward: -112.43
+
+Episode: 279, Reward: -58.26
+
+Episode: 280, Reward: -56.94
+
+Episode: 281, Reward: -63.38
+
+Episode: 282, Reward: -86.79
+
+Episode: 283, Reward: -68.94
+
+Episode: 284, Reward: -78.87
+
+Episode: 285, Reward: -75.03
+
+Episode: 286, Reward: -72.23
+
+Episode: 287, Reward: -71.35
+
+Episode: 288, Reward: -60.04
+
+Episode: 289, Reward: -78.52
+
+Episode: 290, Reward: -92.07
+
+Episode: 291, Reward: -68.44
+
+Episode: 292, Reward: -65.13
+
+Episode: 293, Reward: -110.00
+
+Episode: 294, Reward: -58.16
+
+Episode: 295, Reward: -56.80
+
+Episode: 296, Reward: -61.91
+
+Episode: 297, Reward: -58.07
+
+Episode: 298, Reward: -61.89
+
+Episode: 299, Reward: -69.83
+
+Episode: 300, Reward: -57.53
+
+Episode: 301, Reward: -57.85
+
+Episode: 302, Reward: -67.52
+
+Episode: 303, Reward: -147.59
+
+Episode: 304, Reward: -59.65
+
+Episode: 305, Reward: -50.71
+
+Episode: 306, Reward: -52.59
+
+Episode: 307, Reward: -55.59
+
+Episode: 308, Reward: -127.67
+
+Episode: 309, Reward: -49.89
+
+Episode: 310, Reward: -52.56
+
+Episode: 311, Reward: -52.44
+
+Episode: 312, Reward: -84.79
+
+Episode: 313, Reward: -62.76
+
+Episode: 314, Reward: -53.16
+
+Episode: 315, Reward: -51.96
+
+Episode: 316, Reward: -72.82
+
+Episode: 317, Reward: -54.27
+
+Episode: 318, Reward: -120.43
+
+Episode: 319, Reward: -67.13
+
+Episode: 320, Reward: -54.98
+
+Episode: 321, Reward: -55.97
+
+Episode: 322, Reward: -54.63
+
+Episode: 323, Reward: -44.88
+
+Episode: 324, Reward: -51.44
+
+Episode: 325, Reward: -46.68
+
+Episode: 326, Reward: -50.66
+
+Episode: 327, Reward: -59.40
+
+Episode: 328, Reward: -108.54
+
+Episode: 329, Reward: -57.68
+
+Episode: 330, Reward: -66.40
+
+Episode: 331, Reward: -164.47
+
+Episode: 332, Reward: -71.23
+
+Episode: 333, Reward: -112.01
+
+Episode: 334, Reward: -45.21
+
+Episode: 335, Reward: -60.91
+
+Episode: 336, Reward: -54.53
+
+Episode: 337, Reward: -51.86
+
+Episode: 338, Reward: -65.44
+
+Episode: 339, Reward: -53.94
+
+Episode: 340, Reward: -38.67
+
+Episode: 341, Reward: -49.90
+
+Episode: 342, Reward: -63.37
+
+Episode: 343, Reward: -54.67
+
+Episode: 344, Reward: -67.17
+
+Episode: 345, Reward: -54.10
+
+Episode: 346, Reward: -66.46
+
+Episode: 347, Reward: -48.98
+
+Episode: 348, Reward: -74.67
+
+Episode: 349, Reward: -145.32
+
+Episode: 350, Reward: -75.61
+
+Episode: 351, Reward: -65.95
+
+Episode: 352, Reward: -52.35
+
+Episode: 353, Reward: -37.97
+
+Episode: 354, Reward: -67.89
+
+Episode: 355, Reward: -52.43
+
+Episode: 356, Reward: -50.54
+
+Episode: 357, Reward: -41.30
+
+Episode: 358, Reward: -54.40
+
+Episode: 359, Reward: -36.59
+
+Episode: 360, Reward: -43.07
+
+Episode: 361, Reward: -51.17
+
+Episode: 362, Reward: -52.72
+
+Episode: 363, Reward: -30.55
+
+Episode: 364, Reward: -57.93
+
+Episode: 365, Reward: -46.98
+
+Episode: 366, Reward: -33.29
+
+Episode: 367, Reward: -44.37
+
+Episode: 368, Reward: -55.77
+
+Episode: 369, Reward: -51.24
+
+Episode: 370, Reward: -41.93
+
+Episode: 371, Reward: -50.63
+
+Episode: 372, Reward: -107.72
+
+Episode: 373, Reward: -35.43
+
+Episode: 374, Reward: -108.40
+
+Episode: 375, Reward: -45.06
+
+Episode: 376, Reward: -69.14
+
+Episode: 377, Reward: -53.59
+
+Episode: 378, Reward: -112.38
+
+Episode: 379, Reward: -51.04
+
+Episode: 380, Reward: -49.47
+
+Episode: 381, Reward: -59.54
+
+Episode: 382, Reward: -48.84
+
+Episode: 383, Reward: -122.44
+
+Episode: 384, Reward: -41.29
+
+Episode: 385, Reward: -110.59
+
+Episode: 386, Reward: -53.58
+
+Episode: 387, Reward: -107.96
+
+Episode: 388, Reward: -57.04
+
+Episode: 389, Reward: -49.80
+
+Episode: 390, Reward: -41.66
+
+Episode: 391, Reward: -45.41
+
+Episode: 392, Reward: -48.57
+
+Episode: 393, Reward: -46.28
+
+Episode: 394, Reward: -36.89
+
+Episode: 395, Reward: -109.39
+
+Episode: 396, Reward: -47.67
+
+Episode: 397, Reward: -36.78
+
+Episode: 398, Reward: -45.75
+
+Episode: 399, Reward: -45.46
+
+Episode: 400, Reward: -109.00
+
+Episode: 401, Reward: -59.84
+
+Episode: 402, Reward: -55.56
+
+Episode: 403, Reward: -36.99
+
+Episode: 404, Reward: -42.28
+
+Episode: 405, Reward: -159.69
+
+Episode: 406, Reward: -32.81
+
+Episode: 407, Reward: -46.16
+
+Episode: 408, Reward: -42.88
+
+Episode: 409, Reward: -113.93
+
+Episode: 410, Reward: -120.88
+
+Episode: 411, Reward: -113.02
+
+Episode: 412, Reward: -26.85
+
+Episode: 413, Reward: -109.96
+
+Episode: 414, Reward: -120.76
+
+Episode: 415, Reward: -114.53
+
+Episode: 416, Reward: -40.11
+
+Episode: 417, Reward: -103.55
+
+Episode: 418, Reward: -110.84
+
+Episode: 419, Reward: -121.45
+
+Episode: 420, Reward: -113.18
+
+Episode: 421, Reward: -113.83
+
+Episode: 422, Reward: -103.06
+
+Episode: 423, Reward: -118.47
+
+Episode: 424, Reward: -106.46
+
+Episode: 425, Reward: -120.82
+
+Episode: 426, Reward: -26.62
+
+Episode: 427, Reward: -113.45
+
+Episode: 428, Reward: -105.60
+
+Episode: 429, Reward: -33.86
+
+Episode: 430, Reward: -113.70
+
+Episode: 431, Reward: -107.90
+
+Episode: 432, Reward: -101.90
+
+Episode: 433, Reward: -114.09
+
+Episode: 434, Reward: -45.40
+
+Episode: 435, Reward: -100.91
+
+Episode: 436, Reward: -144.86
+
+Episode: 437, Reward: -157.58
+
+Episode: 438, Reward: -107.16
+
+Episode: 439, Reward: -117.93
+
+Episode: 440, Reward: -110.48
+
+Episode: 441, Reward: -114.11
+
+Episode: 442, Reward: -113.56
+
+Episode: 443, Reward: -107.69
+
+Episode: 444, Reward: -109.76
+
+Episode: 445, Reward: -40.04
+
+Episode: 446, Reward: -125.49
+
+Episode: 447, Reward: -32.43
+
+Episode: 448, Reward: -49.01
+
+Episode: 449, Reward: -19.72
+
+Episode: 450, Reward: -119.70
+
+Episode: 451, Reward: -56.85
+
+Episode: 452, Reward: -112.49
+
+Episode: 453, Reward: -105.44
+
+Episode: 454, Reward: -45.05
+
+Episode: 455, Reward: -132.49
+
+Episode: 456, Reward: -113.87
+
+Episode: 457, Reward: -114.04
+
+Episode: 458, Reward: -117.53
+
+Episode: 459, Reward: -109.59
+
+Episode: 460, Reward: -178.51
+
+Episode: 461, Reward: -40.49
+
+Episode: 462, Reward: -114.53
+
+Episode: 463, Reward: -42.62
+
+Episode: 464, Reward: -32.77
+
+Episode: 465, Reward: -114.42
+
+Episode: 466, Reward: -111.50
+
+Episode: 467, Reward: -113.30
+
+Episode: 468, Reward: -115.55
+
+Episode: 469, Reward: -112.56
+
+Episode: 470, Reward: -141.02
+
+Episode: 471, Reward: -119.63
+
+Episode: 472, Reward: -64.72
+
+Episode: 473, Reward: -107.20
+
+Episode: 474, Reward: -103.53
+
+Episode: 475, Reward: -36.47
+
+Episode: 476, Reward: -116.08
+
+Episode: 477, Reward: -114.14
+
+Episode: 478, Reward: -110.13
+
+Episode: 479, Reward: -110.95
+
+Episode: 480, Reward: -116.43
+
+Episode: 481, Reward: -37.03
+
+Episode: 482, Reward: -27.96
+
+Episode: 483, Reward: -126.12
+
+Episode: 484, Reward: -39.52
+
+Episode: 485, Reward: -117.25
+
+Episode: 486, Reward: -50.41
+
+Episode: 487, Reward: -40.27
+
+Episode: 488, Reward: -34.33
+
+Episode: 489, Reward: -41.98
+
+Episode: 490, Reward: -111.92
+
+Episode: 491, Reward: -112.32
+
+Episode: 492, Reward: -39.93
+
+Episode: 493, Reward: -111.34
+
+Episode: 494, Reward: -38.85
+
+Episode: 495, Reward: -111.26
+
+Episode: 496, Reward: -118.90
+
+Episode: 497, Reward: -44.09
+
+Episode: 498, Reward: -116.34
+
+Episode: 499, Reward: -127.29
+
+Episode: 500, Reward: -47.53
+
+Episode: 501, Reward: -37.49
+
+Episode: 502, Reward: -113.27
+
+Episode: 503, Reward: -108.14
+
+Episode: 504, Reward: -33.25
+
+Episode: 505, Reward: -119.18
+
+Episode: 506, Reward: -113.96
+
+Episode: 507, Reward: -110.65
+
+Episode: 508, Reward: -36.14
+
+Episode: 509, Reward: -108.79
+
+Episode: 510, Reward: -45.78
+
+Episode: 511, Reward: -107.43
+
+Episode: 512, Reward: -43.81
+
+Episode: 513, Reward: -39.77
+
+Episode: 514, Reward: -37.10
+
+Episode: 515, Reward: -45.50
+
+Episode: 516, Reward: -99.21
+
+Episode: 517, Reward: -32.29
+
+Episode: 518, Reward: -45.08
+
+Episode: 519, Reward: -113.28
+
+Episode: 520, Reward: -37.89
+
+Episode: 521, Reward: -110.96
+
+Episode: 522, Reward: -106.55
+
+Episode: 523, Reward: -40.39
+
+Episode: 524, Reward: -112.40
+
+Episode: 525, Reward: -115.84
+
+Episode: 526, Reward: -115.63
+
+Episode: 527, Reward: -41.14
+
+Episode: 528, Reward: -52.53
+
+Episode: 529, Reward: -118.34
+
+Episode: 530, Reward: -43.39
+
+Episode: 531, Reward: -50.90
+
+Episode: 532, Reward: -37.78
+
+Episode: 533, Reward: -121.11
+
+Episode: 534, Reward: -43.11
+
+Episode: 535, Reward: -30.34
+
+Episode: 536, Reward: -38.72
+
+Episode: 537, Reward: -50.05
+
+Episode: 538, Reward: -44.58
+
+Episode: 539, Reward: -35.76
+
+Episode: 540, Reward: -38.32
+
+Episode: 541, Reward: -47.54
+
+Episode: 542, Reward: -124.13
+
+Episode: 543, Reward: -41.15
+
+Episode: 544, Reward: -37.27
+
+Episode: 545, Reward: -33.48
+
+Episode: 546, Reward: -39.54
+
+Episode: 547, Reward: -123.96
+
+Episode: 548, Reward: -32.76
+
+Episode: 549, Reward: -26.36
+
+Episode: 550, Reward: -46.38
+
+Episode: 551, Reward: -116.18
+
+Episode: 552, Reward: -43.63
+
+Episode: 553, Reward: -117.07
+
+Episode: 554, Reward: -29.60
+
+Episode: 555, Reward: -108.74
+
+Episode: 556, Reward: -53.65
+
+Episode: 557, Reward: -23.65
+
+Episode: 558, Reward: -161.45
+
+Episode: 559, Reward: -110.61
+
+Episode: 560, Reward: -107.09
+
+Episode: 561, Reward: -128.16
+
+Episode: 562, Reward: -124.41
+
+Episode: 563, Reward: -39.71
+
+Episode: 564, Reward: -47.77
+
+Episode: 565, Reward: -126.25
+
+Episode: 566, Reward: -42.10
+
+Episode: 567, Reward: -48.31
+
+Episode: 568, Reward: -54.71
+
+Episode: 569, Reward: -109.56
+
+Episode: 570, Reward: -37.99
+
+Episode: 571, Reward: -44.26
+
+Episode: 572, Reward: -126.75
+
+Episode: 573, Reward: -45.24
+
+Episode: 574, Reward: -116.20
+
+Episode: 575, Reward: -50.30
+
+Episode: 576, Reward: -119.75
+
+Episode: 577, Reward: -53.10
+
+Episode: 578, Reward: -52.82
+
+Episode: 579, Reward: -49.83
+
+Episode: 580, Reward: -48.33
+
+Episode: 581, Reward: -49.31
+
+Episode: 582, Reward: -48.54
+
+Episode: 583, Reward: -47.93
+
+Episode: 584, Reward: -50.32
+
+Episode: 585, Reward: -46.61
+
+Episode: 586, Reward: -42.09
+
+Episode: 587, Reward: -45.07
+
+Episode: 588, Reward: -28.18
+
+Episode: 589, Reward: -38.43
+
+Episode: 590, Reward: -48.55
+
+Episode: 591, Reward: -35.83
+
+Episode: 592, Reward: -119.76
+
+Episode: 593, Reward: -116.39
+
+Episode: 594, Reward: -106.98
+
+Episode: 595, Reward: -47.89
+
+Episode: 596, Reward: -48.34
+
+Episode: 597, Reward: -37.72
+
+Episode: 598, Reward: -47.87
+
+Episode: 599, Reward: -43.35
+
+Episode: 600, Reward: -38.88
+
+Episode: 601, Reward: -46.99
+
+Episode: 602, Reward: -51.39
+
+Episode: 603, Reward: -110.07
+
+Episode: 604, Reward: -42.87
+
+Episode: 605, Reward: -43.48
+
+Episode: 606, Reward: -52.33
+
+Episode: 607, Reward: -51.31
+
+Episode: 608, Reward: -40.81
+
+Episode: 609, Reward: -41.94
+
+Episode: 610, Reward: -146.51
+
+Episode: 611, Reward: -37.27
+
+Episode: 612, Reward: -50.70
+
+Episode: 613, Reward: -34.78
+
+Episode: 614, Reward: -52.11
+
+Episode: 615, Reward: -51.41
+
+Episode: 616, Reward: -43.48
+
+Episode: 617, Reward: -35.37
+
+Episode: 618, Reward: -42.51
+
+Episode: 619, Reward: -37.15
+
+Episode: 620, Reward: -41.29
+
+Episode: 621, Reward: -49.50
+
+Episode: 622, Reward: -40.90
+
+Episode: 623, Reward: -32.93
+
+Episode: 624, Reward: -36.18
+
+Episode: 625, Reward: -50.08
+
+Episode: 626, Reward: -41.56
+
+Episode: 627, Reward: -36.96
+
+Episode: 628, Reward: -31.72
+
+Episode: 629, Reward: -120.39
+
+Episode: 630, Reward: -115.96
+
+Episode: 631, Reward: -116.87
+
+Episode: 632, Reward: -41.75
+
+Episode: 633, Reward: -24.72
+
+Episode: 634, Reward: -29.84
+
+Episode: 635, Reward: -26.37
+
+Episode: 636, Reward: -28.54
+
+Episode: 637, Reward: -24.95
+
+Episode: 638, Reward: -20.19
+
+Episode: 639, Reward: -103.97
+
+Episode: 640, Reward: -37.36
+
+Episode: 641, Reward: -25.10
+
+Episode: 642, Reward: -36.73
+
+Episode: 643, Reward: -15.50
+
+Episode: 644, Reward: -16.74
+
+Episode: 645, Reward: -104.39
+
+Episode: 646, Reward: -128.64
+
+Episode: 647, Reward: -109.67
+
+Episode: 648, Reward: -135.75
+
+Episode: 649, Reward: -33.19
+
+Episode: 650, Reward: -107.78
+
+Episode: 651, Reward: -44.22
+
+Episode: 652, Reward: -112.18
+
+Episode: 653, Reward: -114.46
+
+Episode: 654, Reward: -40.57
+
+Episode: 655, Reward: -20.17
+
+Episode: 656, Reward: -116.43
+
+Episode: 657, Reward: -56.97
+
+Episode: 658, Reward: -108.63
+
+Episode: 659, Reward: -54.84
+
+Episode: 660, Reward: -31.59
+
+Episode: 661, Reward: -31.28
+
+Episode: 662, Reward: -110.40
+
+Episode: 663, Reward: -30.49
+
+Episode: 664, Reward: -21.17
+
+Episode: 665, Reward: -16.28
+
+Episode: 666, Reward: -107.69
+
+Episode: 667, Reward: -39.24
+
+Episode: 668, Reward: -16.12
+
+Episode: 669, Reward: -28.08
+
+Episode: 670, Reward: -39.32
+
+Episode: 671, Reward: -29.97
+
+Episode: 672, Reward: -35.26
+
+Episode: 673, Reward: -19.23
+
+Episode: 674, Reward: -6.86
+
+Episode: 675, Reward: -28.22
+
+Episode: 676, Reward: -39.09
+
+Episode: 677, Reward: -21.29
+
+Episode: 678, Reward: -121.44
+
+Episode: 679, Reward: -37.47
+
+Episode: 680, Reward: -107.14
+
+Episode: 681, Reward: -30.35
+
+Episode: 682, Reward: -6.28
+
+Episode: 683, Reward: -28.03
+
+Episode: 684, Reward: -111.41
+
+Episode: 685, Reward: 5.07
+
+Episode: 686, Reward: -112.59
+
+Episode: 687, Reward: -34.44
+
+Episode: 688, Reward: -21.13
+
+Episode: 689, Reward: -12.81
+
+Episode: 690, Reward: -45.23
+
+Episode: 691, Reward: -109.25
+
+Episode: 692, Reward: -114.43
+
+Episode: 693, Reward: -16.90
+
+Episode: 694, Reward: -12.80
+
+Episode: 695, Reward: -31.46
+
+Episode: 696, Reward: -26.01
+
+Episode: 697, Reward: -109.16
+
+Episode: 698, Reward: -25.29
+
+Episode: 699, Reward: -17.32
+
+Episode: 700, Reward: -11.20
+
+Episode: 701, Reward: -21.74
+
+Episode: 702, Reward: 3.62
+
+Episode: 703, Reward: -9.34
+
+Episode: 704, Reward: -124.92
+
+Episode: 705, Reward: -109.24
+
+Episode: 706, Reward: -10.31
+
+Episode: 707, Reward: -0.80
+
+Episode: 708, Reward: -10.88
+
+Episode: 709, Reward: -109.42
+
+Episode: 710, Reward: -120.30
+
+Episode: 711, Reward: -25.77
+
+Episode: 712, Reward: -4.54
+
+Episode: 713, Reward: -117.96
+
+Episode: 714, Reward: -29.87
+
+Episode: 715, Reward: -17.22
+
+Episode: 716, Reward: -115.56
+
+Episode: 717, Reward: -126.24
+
+Episode: 718, Reward: -33.18
+
+Episode: 719, Reward: -16.91
+
+Episode: 720, Reward: -120.04
+
+Episode: 721, Reward: -17.23
+
+Episode: 722, Reward: -110.54
+
+Episode: 723, Reward: -115.20
+
+Episode: 724, Reward: -2.48
+
+Episode: 725, Reward: -120.28
+
+Episode: 726, Reward: -18.58
+
+Episode: 727, Reward: -0.60
+
+Episode: 728, Reward: -23.97
+
+Episode: 729, Reward: -33.01
+
+Episode: 730, Reward: -109.12
+
+Episode: 731, Reward: -8.69
+
+Episode: 732, Reward: -18.38
+
+Episode: 733, Reward: -13.67
+
+Episode: 734, Reward: -119.30
+
+Episode: 735, Reward: -26.49
+
+Episode: 736, Reward: -22.27
+
+Episode: 737, Reward: -14.57
+
+Episode: 738, Reward: -27.82
+
+Episode: 739, Reward: -34.22
+
+Episode: 740, Reward: -111.22
+
+Episode: 741, Reward: -20.91
+
+Episode: 742, Reward: -29.97
+
+Episode: 743, Reward: -36.39
+
+Episode: 744, Reward: -19.41
+
+Episode: 745, Reward: 9.27
+
+Episode: 746, Reward: -36.72
+
+Episode: 747, Reward: -113.30
+
+Episode: 748, Reward: -18.37
+
+Episode: 749, Reward: -108.02
+
+Episode: 750, Reward: -15.79
+
+Episode: 751, Reward: -6.18
+
+Episode: 752, Reward: -36.42
+
+Episode: 753, Reward: -26.90
+
+Episode: 754, Reward: -109.53
+
+Episode: 755, Reward: -113.18
+
+Episode: 756, Reward: -10.20
+
+Episode: 757, Reward: -17.89
+
+Episode: 758, Reward: -114.77
+
+Episode: 759, Reward: -8.25
+
+Episode: 760, Reward: -111.62
+
+Episode: 761, Reward: -20.12
+
+Episode: 762, Reward: -112.12
+
+Episode: 763, Reward: -13.92
+
+Episode: 764, Reward: -29.53
+
+Episode: 765, Reward: -16.78
+
+Episode: 766, Reward: -23.61
+
+Episode: 767, Reward: -13.40
+
+Episode: 768, Reward: -24.46
+
+Episode: 769, Reward: -112.63
+
+Episode: 770, Reward: -26.65
+
+Episode: 771, Reward: -120.37
+
+Episode: 772, Reward: -9.05
+
+Episode: 773, Reward: -114.96
+
+Episode: 774, Reward: -39.23
+
+Episode: 775, Reward: -108.01
+
+Episode: 776, Reward: -148.76
+
+Episode: 777, Reward: -24.87
+
+Episode: 778, Reward: -121.38
+
+Episode: 779, Reward: -107.50
+
+Episode: 780, Reward: -20.80
+
+Episode: 781, Reward: -27.30
+
+Episode: 782, Reward: -39.80
+
+Episode: 783, Reward: -30.93
+
+Episode: 784, Reward: -39.33
+
+Episode: 785, Reward: -23.81
+
+Episode: 786, Reward: -21.67
+
+Episode: 787, Reward: -4.12
+
+Episode: 788, Reward: -111.52
+
+Episode: 789, Reward: -20.15
+
+Episode: 790, Reward: -39.35
+
+Episode: 791, Reward: -135.00
+
+Episode: 792, Reward: -29.12
+
+Episode: 793, Reward: -29.93
+
+Episode: 794, Reward: -41.94
+
+Episode: 795, Reward: -14.26
+
+Episode: 796, Reward: -49.66
+
+Episode: 797, Reward: -116.16
+
+Episode: 798, Reward: -36.22
+
+Episode: 799, Reward: -38.59
+
+Episode: 800, Reward: -11.11
+
+Episode: 801, Reward: -31.12
+
+Episode: 802, Reward: -19.76
+
+Episode: 803, Reward: -40.07
+
+Episode: 804, Reward: -25.93
+
+Episode: 805, Reward: -18.68
+
+Episode: 806, Reward: -35.51
+
+Episode: 807, Reward: -1.76
+
+Episode: 808, Reward: -20.46
+
+Episode: 809, Reward: -23.36
+
+Episode: 810, Reward: -27.54
+
+Episode: 811, Reward: -30.11
+
+Episode: 812, Reward: -21.49
+
+Episode: 813, Reward: -36.85
+
+Episode: 814, Reward: -6.17
+
+Episode: 815, Reward: -17.14
+
+Episode: 816, Reward: -107.18
+
+Episode: 817, Reward: -19.04
+
+Episode: 818, Reward: -3.81
+
+Episode: 819, Reward: -113.43
+
+Episode: 820, Reward: -32.38
+
+Episode: 821, Reward: -12.50
+
+Episode: 822, Reward: -21.95
+
+Episode: 823, Reward: -21.70
+
+Episode: 824, Reward: -9.60
+
+Episode: 825, Reward: -30.01
+
+Episode: 826, Reward: -120.96
+
+Episode: 827, Reward: -10.07
+
+Episode: 828, Reward: -110.71
+
+Episode: 829, Reward: -6.76
+
+Episode: 830, Reward: -43.93
+
+Episode: 831, Reward: -20.15
+
+Episode: 832, Reward: -23.98
+
+Episode: 833, Reward: 5.79
+
+Episode: 834, Reward: -1.83
+
+Episode: 835, Reward: -34.47
+
+Episode: 836, Reward: -25.31
+
+Episode: 837, Reward: -6.03
+
+Episode: 838, Reward: -6.83
+
+Episode: 839, Reward: -13.84
+
+Episode: 840, Reward: -18.62
+
+Episode: 841, Reward: -129.28
+
+Episode: 842, Reward: -6.65
+
+Episode: 843, Reward: -25.02
+
+Episode: 844, Reward: -111.96
+
+Episode: 845, Reward: -12.02
+
+Episode: 846, Reward: -26.95
+
+Episode: 847, Reward: -11.76
+
+Episode: 848, Reward: -6.92
+
+Episode: 849, Reward: -36.60
+
+Episode: 850, Reward: -16.46
+
+Episode: 851, Reward: -25.98
+
+Episode: 852, Reward: -110.62
+
+Episode: 853, Reward: -108.49
+
+Episode: 854, Reward: -49.44
+
+Episode: 855, Reward: -34.23
+
+Episode: 856, Reward: -105.76
+
+Episode: 857, Reward: -23.94
+
+Episode: 858, Reward: 4.59
+
+Episode: 859, Reward: -19.03
+
+Episode: 860, Reward: -111.81
+
+Episode: 861, Reward: -9.48
+
+Episode: 862, Reward: 18.82
+
+Episode: 863, Reward: -23.09
+
+Episode: 864, Reward: -19.12
+
+Episode: 865, Reward: -60.21
+
+Episode: 866, Reward: -24.24
+
+Episode: 867, Reward: -32.05
+
+Episode: 868, Reward: -13.70
+
+Episode: 869, Reward: -50.73
+
+Episode: 870, Reward: -109.65
+
+Episode: 871, Reward: -35.13
+
+Episode: 872, Reward: -16.83
+
+Episode: 873, Reward: -112.87
+
+Episode: 874, Reward: -30.73
+
+Episode: 875, Reward: -135.67
+
+Episode: 876, Reward: -13.64
+
+Episode: 877, Reward: -108.46
+
+Episode: 878, Reward: -25.20
+
+Episode: 879, Reward: -5.65
+
+Episode: 880, Reward: -107.55
+
+Episode: 881, Reward: -1.24
+
+Episode: 882, Reward: -44.33
+
+Episode: 883, Reward: -13.78
+
+Episode: 884, Reward: -24.07
+
+Episode: 885, Reward: -26.14
+
+Episode: 886, Reward: -4.18
+
+Episode: 887, Reward: -3.84
+
+Episode: 888, Reward: -110.75
+
+Episode: 889, Reward: -137.74
+
+Episode: 890, Reward: -108.36
+
+Episode: 891, Reward: -14.48
+
+Episode: 892, Reward: -46.11
+
+Episode: 893, Reward: -17.51
+
+Episode: 894, Reward: -17.90
+
+Episode: 895, Reward: -28.07
+
+Episode: 896, Reward: -1.82
+
+Episode: 897, Reward: -4.56
+
+Episode: 898, Reward: -26.25
+
+Episode: 899, Reward: -14.26
+
+Episode: 900, Reward: -0.43
+
+Episode: 901, Reward: -101.18
+
+Episode: 902, Reward: -4.76
+
+Episode: 903, Reward: -9.50
+
+Episode: 904, Reward: -122.76
+
+Episode: 905, Reward: -9.06
+
+Episode: 906, Reward: -106.38
+
+Episode: 907, Reward: 5.02
+
+Episode: 908, Reward: -12.67
+
+Episode: 909, Reward: -20.18
+
+Episode: 910, Reward: 3.18
+
+Episode: 911, Reward: -6.95
+
+Episode: 912, Reward: -112.93
+
+Episode: 913, Reward: -28.12
+
+Episode: 914, Reward: -27.67
+
+Episode: 915, Reward: -16.66
+
+Episode: 916, Reward: -19.77
+
+Episode: 917, Reward: -106.40
+
+Episode: 918, Reward: -119.13
+
+Episode: 919, Reward: -115.77
+
+Episode: 920, Reward: -10.87
+
+Episode: 921, Reward: -4.90
+
+Episode: 922, Reward: -16.81
+
+Episode: 923, Reward: -109.50
+
+Episode: 924, Reward: -113.07
+
+Episode: 925, Reward: -20.53
+
+Episode: 926, Reward: -124.62
+
+Episode: 927, Reward: -10.16
+
+Episode: 928, Reward: -111.60
+
+Episode: 929, Reward: -116.73
+
+Episode: 930, Reward: -7.53
+
+Episode: 931, Reward: -20.10
+
+Episode: 932, Reward: -22.99
+
+Episode: 933, Reward: -28.29
+
+Episode: 934, Reward: -14.93
+
+Episode: 935, Reward: -19.49
+
+Episode: 936, Reward: -7.01
+
+Episode: 937, Reward: -7.16
+
+Episode: 938, Reward: -14.43
+
+Episode: 939, Reward: -8.23
+
+Episode: 940, Reward: -2.81
+
+Episode: 941, Reward: -19.98
+
+Episode: 942, Reward: -10.58
+
+Episode: 943, Reward: 7.73
+
+Episode: 944, Reward: 3.83
+
+Episode: 945, Reward: -119.88
+
+Episode: 946, Reward: -23.48
+
+Episode: 947, Reward: -3.00
+
+Episode: 948, Reward: -109.86
+
+Episode: 949, Reward: -14.98
+
+Episode: 950, Reward: 5.28
+
+Episode: 951, Reward: -109.80
+
+Episode: 952, Reward: -5.14
+
+Episode: 953, Reward: -22.71
+
+Episode: 954, Reward: 4.89
+
+Episode: 955, Reward: -22.83
+
+Episode: 956, Reward: -23.23
+
+Episode: 957, Reward: -14.07
+
+Episode: 958, Reward: -7.52
+
+Episode: 959, Reward: -25.86
+
+Episode: 960, Reward: 3.59
+
+Episode: 961, Reward: 14.17
+
+Episode: 962, Reward: -117.11
+
+Episode: 963, Reward: -10.04
+
+Episode: 964, Reward: -2.47
+
+Episode: 965, Reward: -0.57
+
+Episode: 966, Reward: 6.60
+
+Episode: 967, Reward: -29.46
+
+Episode: 968, Reward: 5.67
+
+Episode: 969, Reward: -23.68
+
+Episode: 970, Reward: 0.63
+
+Episode: 971, Reward: -115.19
+
+Episode: 972, Reward: -1.19
+
+Episode: 973, Reward: -13.69
+
+Episode: 974, Reward: -114.56
+
+Episode: 975, Reward: -3.15
+
+Episode: 976, Reward: -17.79
+
+Episode: 977, Reward: -34.38
+
+Episode: 978, Reward: -22.56
+
+Episode: 979, Reward: -39.41
+
+Episode: 980, Reward: -21.68
+
+Episode: 981, Reward: -21.39
+
+Episode: 982, Reward: -16.40
+
+Episode: 983, Reward: -19.94
+
+Episode: 984, Reward: -9.85
+
+Episode: 985, Reward: -109.46
+
+Episode: 986, Reward: -10.95
+
+Episode: 987, Reward: -13.95
+
+Episode: 988, Reward: -20.09
+
+Episode: 989, Reward: -11.62
+
+Episode: 990, Reward: -0.57
+
+Episode: 991, Reward: -84.86
+
+Episode: 992, Reward: -113.77
+
+Episode: 993, Reward: -109.94
+
+Episode: 994, Reward: -114.89
+
+Episode: 995, Reward: -27.20
+
+Episode: 996, Reward: -16.96
+
+Episode: 997, Reward: -14.00
+
+Episode: 998, Reward: -23.84
+
+Episode: 999, Reward: -116.29
+
+Episode: 1000, Reward: -112.06
+

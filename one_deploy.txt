@@ -1,0 +1,30 @@
+# ================================================================
+#  环境配置单元格 V5 (最终、最可靠的版本)
+#  每次启动新会话时，首先运行此单元格
+# ================================================================
+print("⏳ 正在使用‘版本锁定’策略安装依赖库...")
+
+# 1. 升级pip
+!python -m pip install --upgrade pip
+
+# 2. 【关键】首先安装一个兼容所有库的Numpy版本
+!pip install "numpy<2.3"
+
+# 3. 现在，安装所有其他依赖库
+#    注意：这里我们加上了 gymnasium[atari]
+!pip install gymnasium[atari] pettingzoo[mpe] pygame stable-baselines3[extra]
+
+# 4. 其他我们需要的工具
+!pip install opencv-python moviepy
+
+# 5. 字体库 (这个不变)
+!apt-get update -y > /dev/null
+!apt-get install -y fonts-wqy-zenhei > /dev/null
+import matplotlib
+# 清理matplotlib字体缓存
+!rm -rf {matplotlib.get_cachedir()}
+import os
+os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
+
+print("\n✅ 所有依赖库应该都已正确安装！")
+print("‼️ 请务必【重启会話】(Runtime -> Restart session 或 Kernel -> Restart Kernel...) 以使所有变更生效。")

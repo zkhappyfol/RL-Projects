@@ -1,0 +1,40 @@
+CNN大脑结构:
+CnnDQN(
+  (conv_layers): Sequential(
+    (0): Conv2d(4, 32, kernel_size=(8, 8), stride=(4, 4))
+    (1): ReLU()
+    (2): Conv2d(32, 64, kernel_size=(4, 4), stride=(2, 2))
+    (3): ReLU()
+    (4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1))
+    (5): ReLU()
+  )
+  (fc_layers): Sequential(
+    (0): Linear(in_features=3136, out_features=512, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=512, out_features=6, bias=True)
+  )
+)
+
+输入一个形状为 torch.Size([1, 4, 84, 84]) 的虚拟状态
+大脑输出的Q值形状: torch.Size([1, 6])
+期望的输出形状: torch.Size([1, 6])
+
+形状检查通过！大脑基本结构设计正确。
+
+Bipedal Walker 环境侦察
+状态空间维度 (State Dim): 24
+动作空间维度 (Action Dim): 4
+最大动作值 (Max Action): 1.0
+========================================
+回合 1 结束 | 步数: 1600, 总奖励: -95.82
+回合 2 结束 | 步数: 92, 总奖励: -117.85
+回合 3 结束 | 步数: 63, 总奖励: -101.58
+
+Bipedal Walker 环境侦察
+状态空间维度 (State Dim): 24
+动作空间维度 (Action Dim): 4
+最大动作值 (Max Action): 1.0
+========================================
+回合 1 结束 | 步数: 97, 总奖励: -115.65
+回合 2 结束 | 步数: 1600, 总奖励: -78.18
+回合 3 结束 | 步数: 93, 总奖励: -113.66

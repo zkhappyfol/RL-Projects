@@ -1,0 +1,899 @@
+Random
+action: 1, pole_location: -0.008, angle: -1.58, Reward: 1.0
+action: 1, pole_location: -0.004, angle: -1.90, Reward: 1.0
+action: 0, pole_location: 0.005, angle: -2.57, Reward: 1.0
+action: 0, pole_location: 0.009, angle: -2.91, Reward: 1.0
+action: 1, pole_location: 0.010, angle: -2.94, Reward: 1.0
+action: 1, pole_location: 0.015, angle: -3.31, Reward: 1.0
+action: 1, pole_location: 0.023, angle: -4.05, Reward: 1.0
+action: 1, pole_location: 0.036, angle: -5.13, Reward: 1.0
+action: 0, pole_location: 0.052, angle: -6.58, Reward: 1.0
+action: 0, pole_location: 0.065, angle: -7.72, Reward: 1.0
+action: 0, pole_location: 0.073, angle: -8.58, Reward: 1.0
+action: 1, pole_location: 0.078, angle: -9.15, Reward: 1.0
+action: 1, pole_location: 0.087, angle: -10.10, Reward: 1.0
+action: 1, pole_location: 0.099, angle: -11.45, Reward: 1.0
+action: 1, pole_location: 0.116, angle: -13.18, Reward: 1.0
+--- Episode Finished, total steps: 15, total rewards: 15 ---
+action: 0, pole_location: 0.027, angle: 2.42, Reward: 1.0
+action: 1, pole_location: 0.023, angle: 2.74, Reward: 1.0
+action: 0, pole_location: 0.023, angle: 2.74, Reward: 1.0
+action: 1, pole_location: 0.019, angle: 3.09, Reward: 1.0
+action: 1, pole_location: 0.019, angle: 3.12, Reward: 1.0
+action: 1, pole_location: 0.023, angle: 2.84, Reward: 1.0
+action: 1, pole_location: 0.031, angle: 2.24, Reward: 1.0
+action: 0, pole_location: 0.043, angle: 1.33, Reward: 1.0
+action: 1, pole_location: 0.051, angle: 0.77, Reward: 1.0
+action: 1, pole_location: 0.062, angle: -0.12, Reward: 1.0
+action: 1, pole_location: 0.078, angle: -1.35, Reward: 1.0
+action: 1, pole_location: 0.098, angle: -2.90, Reward: 1.0
+action: 0, pole_location: 0.121, angle: -4.80, Reward: 1.0
+action: 1, pole_location: 0.141, angle: -6.39, Reward: 1.0
+action: 0, pole_location: 0.164, angle: -8.34, Reward: 1.0
+action: 0, pole_location: 0.184, angle: -9.99, Reward: 1.0
+action: 1, pole_location: 0.199, angle: -11.37, Reward: 1.0
+action: 0, pole_location: 0.219, angle: -13.14, Reward: 1.0
+--- Episode Finished, total steps: 18, total rewards: 18 ---
+action: 0, pole_location: 0.011, angle: -1.34, Reward: 1.0
+action: 1, pole_location: 0.007, angle: -1.00, Reward: 1.0
+action: 1, pole_location: 0.007, angle: -1.00, Reward: 1.0
+action: 1, pole_location: 0.011, angle: -1.34, Reward: 1.0
+action: 0, pole_location: 0.019, angle: -2.02, Reward: 1.0
+action: 0, pole_location: 0.023, angle: -2.38, Reward: 1.0
+action: 1, pole_location: 0.023, angle: -2.41, Reward: 1.0
+action: 1, pole_location: 0.027, angle: -2.79, Reward: 1.0
+action: 1, pole_location: 0.035, angle: -3.53, Reward: 1.0
+action: 0, pole_location: 0.047, angle: -4.62, Reward: 1.0
+action: 0, pole_location: 0.055, angle: -5.39, Reward: 1.0
+action: 1, pole_location: 0.059, angle: -5.86, Reward: 1.0
+action: 1, pole_location: 0.067, angle: -6.69, Reward: 1.0
+action: 0, pole_location: 0.079, angle: -7.90, Reward: 1.0
+action: 0, pole_location: 0.087, angle: -8.82, Reward: 1.0
+action: 0, pole_location: 0.091, angle: -9.45, Reward: 1.0
+action: 0, pole_location: 0.091, angle: -9.81, Reward: 1.0
+action: 0, pole_location: 0.088, angle: -9.90, Reward: 1.0
+action: 1, pole_location: 0.080, angle: -9.71, Reward: 1.0
+action: 0, pole_location: 0.077, angle: -9.92, Reward: 1.0
+action: 0, pole_location: 0.069, angle: -9.87, Reward: 1.0
+action: 0, pole_location: 0.058, angle: -9.54, Reward: 1.0
+action: 0, pole_location: 0.043, angle: -8.94, Reward: 1.0
+action: 0, pole_location: 0.025, angle: -8.08, Reward: 1.0
+action: 0, pole_location: 0.002, angle: -6.94, Reward: 1.0
+action: 1, pole_location: -0.025, angle: -5.52, Reward: 1.0
+action: 1, pole_location: -0.047, angle: -4.48, Reward: 1.0
+action: 1, pole_location: -0.066, angle: -3.80, Reward: 1.0
+action: 1, pole_location: -0.081, angle: -3.49, Reward: 1.0
+action: 0, pole_location: -0.091, angle: -3.53, Reward: 1.0
+action: 1, pole_location: -0.106, angle: -3.26, Reward: 1.0
+action: 0, pole_location: -0.117, angle: -3.35, Reward: 1.0
+action: 0, pole_location: -0.132, angle: -3.13, Reward: 1.0
+action: 0, pole_location: -0.150, angle: -2.59, Reward: 1.0
+action: 1, pole_location: -0.173, angle: -1.73, Reward: 1.0
+action: 0, pole_location: -0.191, angle: -1.23, Reward: 1.0
+action: 0, pole_location: -0.214, angle: -0.40, Reward: 1.0
+action: 0, pole_location: -0.240, angle: 0.75, Reward: 1.0
+action: 0, pole_location: -0.270, angle: 2.24, Reward: 1.0
+action: 0, pole_location: -0.304, angle: 4.07, Reward: 1.0
+action: 0, pole_location: -0.342, angle: 6.24, Reward: 1.0
+action: 1, pole_location: -0.384, angle: 8.78, Reward: 1.0
+action: 1, pole_location: -0.422, angle: 11.02, Reward: 1.0
+action: 0, pole_location: -0.457, angle: 12.99, Reward: 1.0
+--- Episode Finished, total steps: 44, total rewards: 44 ---
+action: 0, pole_location: 0.045, angle: -0.54, Reward: 1.0
+action: 0, pole_location: 0.041, angle: -0.25, Reward: 1.0
+action: 1, pole_location: 0.033, angle: 0.38, Reward: 1.0
+action: 1, pole_location: 0.029, angle: 0.66, Reward: 1.0
+action: 1, pole_location: 0.029, angle: 0.62, Reward: 1.0
+action: 1, pole_location: 0.033, angle: 0.24, Reward: 1.0
+action: 1, pole_location: 0.041, angle: -0.47, Reward: 1.0
+action: 1, pole_location: 0.053, angle: -1.52, Reward: 1.0
+action: 0, pole_location: 0.068, angle: -2.90, Reward: 1.0
+action: 1, pole_location: 0.080, angle: -3.95, Reward: 1.0
+action: 1, pole_location: 0.095, angle: -5.36, Reward: 1.0
+action: 1, pole_location: 0.115, angle: -7.13, Reward: 1.0
+action: 1, pole_location: 0.139, angle: -9.27, Reward: 1.0
+action: 1, pole_location: 0.166, angle: -11.78, Reward: 1.0
+action: 1, pole_location: 0.197, angle: -14.68, Reward: 1.0
+--- Episode Finished, total steps: 15, total rewards: 15 ---
+action: 1, pole_location: -0.029, angle: -0.87, Reward: 1.0
+action: 1, pole_location: -0.024, angle: -1.18, Reward: 1.0
+action: 1, pole_location: -0.016, angle: -1.83, Reward: 1.0
+action: 1, pole_location: -0.003, angle: -2.82, Reward: 1.0
+action: 1, pole_location: 0.013, angle: -4.16, Reward: 1.0
+action: 1, pole_location: 0.034, angle: -5.85, Reward: 1.0
+action: 1, pole_location: 0.058, angle: -7.90, Reward: 1.0
+action: 1, pole_location: 0.086, angle: -10.32, Reward: 1.0
+action: 0, pole_location: 0.119, angle: -13.12, Reward: 1.0
+--- Episode Finished, total steps: 9, total rewards: 9 ---
+action: 1, pole_location: -0.043, angle: -0.57, Reward: 1.0
+action: 1, pole_location: -0.040, angle: -0.95, Reward: 1.0
+action: 1, pole_location: -0.032, angle: -1.67, Reward: 1.0
+action: 1, pole_location: -0.020, angle: -2.72, Reward: 1.0
+action: 0, pole_location: -0.004, angle: -4.13, Reward: 1.0
+action: 1, pole_location: 0.007, angle: -5.21, Reward: 1.0
+action: 0, pole_location: 0.023, angle: -6.66, Reward: 1.0
+action: 0, pole_location: 0.035, angle: -7.80, Reward: 1.0
+action: 0, pole_location: 0.043, angle: -8.65, Reward: 1.0
+action: 0, pole_location: 0.047, angle: -9.22, Reward: 1.0
+action: 1, pole_location: 0.047, angle: -9.52, Reward: 1.0
+action: 1, pole_location: 0.051, angle: -10.20, Reward: 1.0
+action: 1, pole_location: 0.059, angle: -11.27, Reward: 1.0
+action: 1, pole_location: 0.071, angle: -12.73, Reward: 1.0
+--- Episode Finished, total steps: 14, total rewards: 14 ---
+action: 0, pole_location: 0.016, angle: 0.78, Reward: 1.0
+action: 0, pole_location: 0.011, angle: 1.13, Reward: 1.0
+action: 0, pole_location: 0.003, angle: 1.83, Reward: 1.0
+action: 1, pole_location: -0.009, angle: 2.86, Reward: 1.0
+action: 1, pole_location: -0.017, angle: 3.57, Reward: 1.0
+action: 1, pole_location: -0.021, angle: 3.96, Reward: 1.0
+action: 1, pole_location: -0.021, angle: 4.04, Reward: 1.0
+action: 1, pole_location: -0.017, angle: 3.82, Reward: 1.0
+action: 0, pole_location: -0.010, angle: 3.28, Reward: 1.0
+action: 0, pole_location: -0.006, angle: 3.10, Reward: 1.0
+action: 1, pole_location: -0.007, angle: 3.28, Reward: 1.0
+action: 1, pole_location: -0.003, angle: 3.14, Reward: 1.0
+action: 1, pole_location: 0.004, angle: 2.69, Reward: 1.0
+action: 1, pole_location: 0.016, angle: 1.92, Reward: 1.0
+action: 1, pole_location: 0.031, angle: 0.83, Reward: 1.0
+action: 1, pole_location: 0.050, angle: -0.58, Reward: 1.0
+action: 1, pole_location: 0.073, angle: -2.31, Reward: 1.0
+action: 1, pole_location: 0.100, angle: -4.39, Reward: 1.0
+action: 1, pole_location: 0.131, angle: -6.82, Reward: 1.0
+action: 1, pole_location: 0.165, angle: -9.61, Reward: 1.0
+action: 0, pole_location: 0.204, angle: -12.77, Reward: 1.0
+--- Episode Finished, total steps: 21, total rewards: 21 ---
+action: 0, pole_location: 0.042, angle: -0.62, Reward: 1.0
+action: 1, pole_location: 0.039, angle: -0.34, Reward: 1.0
+action: 1, pole_location: 0.040, angle: -0.40, Reward: 1.0
+action: 0, pole_location: 0.045, angle: -0.80, Reward: 1.0
+action: 0, pole_location: 0.045, angle: -0.87, Reward: 1.0
+action: 1, pole_location: 0.042, angle: -0.60, Reward: 1.0
+action: 1, pole_location: 0.043, angle: -0.68, Reward: 1.0
+
+Q-Learning
+[1,1,6,3],10000/500,0.999,无位置惩罚
+回合: 500, 平均奖励: 0.22444889779559118
+回合: 1000, 平均奖励: 0.12112112112112113
+回合: 1500, 平均奖励: 0.015343562374916611
+回合: 2000, 平均奖励: 0.224112056028014
+回合: 2500, 平均奖励: 0.2000800320128051
+回合: 3000, 平均奖励: 0.16672224074691563
+回合: 3500, 平均奖励: 0.14289797084881395
+回合: 4000, 平均奖励: 0.12503125781445362
+回合: 4500, 平均奖励: 0.11113580795732385
+回合: 5000, 平均奖励: 0.10002000400080016
+回合: 5500, 平均奖励: 0.09092562284051646
+回合: 6000, 平均奖励: 0.08334722453742291
+回合: 6500, 平均奖励: 0.07693491306354824
+回合: 7000, 平均奖励: 0.0714387769681383
+回合: 7500, 平均奖励: 0.06667555674089878
+回合: 8000, 平均奖励: 0.06250781347668459
+回合: 8500, 平均奖励: 0.05883045064125191
+回合: 9000, 平均奖励: 0.055561729081009
+回合: 9500, 平均奖励: 0.05263711969681019
+回合: 10000, 平均奖励: 0.05000500050005
+训练完成！
+
+增加Q Table为字典{}，[10,10,12,12]
+加载文件后, Q-Table 的大小是: 210
+开始训练...
+回合: 500, 平均奖励: 0.028056112224448898
+当前内存中的Q Table的大小: 775
+当前 Epsilon: 0.99005
+利用次数: 0, 探索次数: 14
+Q-Table saved to q_table.pkl
+回合: 1000, 平均奖励: 0.022022022022022022
+当前内存中的Q Table的大小: 890
+当前 Epsilon: 0.98020
+利用次数: 0, 探索次数: 22
+Q-Table saved to q_table.pkl
+回合: 1500, 平均奖励: 0.03402268178785857
+当前内存中的Q Table的大小: 920
+当前 Epsilon: 0.97045
+利用次数: 1, 探索次数: 50
+Q-Table saved to q_table.pkl
+回合: 2000, 平均奖励: 0.009504752376188095
+当前内存中的Q Table的大小: 942
+当前 Epsilon: 0.96079
+利用次数: 1, 探索次数: 18
+Q-Table saved to q_table.pkl
+回合: 2500, 平均奖励: 0.006002400960384154
+当前内存中的Q Table的大小: 966
+当前 Epsilon: 0.95123
+利用次数: 1, 探索次数: 14
+Q-Table saved to q_table.pkl
+回合: 3000, 平均奖励: 0.009336445481827277
+当前内存中的Q Table的大小: 980
+当前 Epsilon: 0.94176
+利用次数: 0, 探索次数: 28
+Q-Table saved to q_table.pkl
+回合: 3500, 平均奖励: 0.003715347242069163
+当前内存中的Q Table的大小: 1003
+当前 Epsilon: 0.93239
+利用次数: 2, 探索次数: 11
+Q-Table saved to q_table.pkl
+回合: 4000, 平均奖励: 0.004001000250062516
+当前内存中的Q Table的大小: 1008
+当前 Epsilon: 0.92312
+利用次数: 2, 探索次数: 14
+Q-Table saved to q_table.pkl
+回合: 4500, 平均奖励: 0.002222716159146477
+当前内存中的Q Table的大小: 1016
+当前 Epsilon: 0.91393
+利用次数: 1, 探索次数: 9
+Q-Table saved to q_table.pkl
+回合: 5000, 平均奖励: 0.002000400080016003
+当前内存中的Q Table的大小: 1020
+当前 Epsilon: 0.90484
+利用次数: 4, 探索次数: 6
+Q-Table saved to q_table.pkl
+回合: 5500, 平均奖励: 0.00563738861611202
+当前内存中的Q Table的大小: 1032
+当前 Epsilon: 0.89583
+利用次数: 3, 探索次数: 28
+Q-Table saved to q_table.pkl
+回合: 6000, 平均奖励: 0.0031671945324220703
+当前内存中的Q Table的大小: 1033
+当前 Epsilon: 0.88692
+利用次数: 2, 探索次数: 17
+Q-Table saved to q_table.pkl
+回合: 6500, 平均奖励: 0.0016925680873980612
+当前内存中的Q Table的大小: 1034
+当前 Epsilon: 0.87809
+利用次数: 0, 探索次数: 11
+Q-Table saved to q_table.pkl
+回合: 7000, 平均奖励: 0.0030004286326618087
+当前内存中的Q Table的大小: 1037
+当前 Epsilon: 0.86936
+利用次数: 1, 探索次数: 20
+Q-Table saved to q_table.pkl
+回合: 7500, 平均奖励: 0.0017335644752633685
+当前内存中的Q Table的大小: 1042
+当前 Epsilon: 0.86071
+利用次数: 2, 探索次数: 11
+Q-Table saved to q_table.pkl
+回合: 8000, 平均奖励: 0.002250281285160645
+当前内存中的Q Table的大小: 1044
+当前 Epsilon: 0.85214
+利用次数: 4, 探索次数: 14
+Q-Table saved to q_table.pkl
+回合: 8500, 平均奖励: 0.0043534533474526415
+当前内存中的Q Table的大小: 1050
+当前 Epsilon: 0.84366
+利用次数: 4, 探索次数: 33
+Q-Table saved to q_table.pkl
+回合: 9000, 平均奖励: 0.001555728414268252
+当前内存中的Q Table的大小: 1051
+当前 Epsilon: 0.83527
+利用次数: 1, 探索次数: 13
+Q-Table saved to q_table.pkl
+回合: 9500, 平均奖励: 0.0026318559848405097
+当前内存中的Q Table的大小: 1052
+当前 Epsilon: 0.82696
+利用次数: 2, 探索次数: 23
+Q-Table saved to q_table.pkl
+回合: 10000, 平均奖励: 0.0017001700170017002
+当前内存中的Q Table的大小: 1055
+当前 Epsilon: 0.81873
+利用次数: 5, 探索次数: 12
+Q-Table saved to q_table.pkl
+回合: 10500, 平均奖励: 0.002190684827126393
+当前内存中的Q Table的大小: 1056
+当前 Epsilon: 0.81058
+利用次数: 5, 探索次数: 18
+Q-Table saved to q_table.pkl
+回合: 11000, 平均奖励: 0.002818438039821802
+当前内存中的Q Table的大小: 1056
+当前 Epsilon: 0.80252
+利用次数: 6, 探索次数: 25
+Q-Table saved to q_table.pkl
+回合: 11500, 平均奖励: 0.0010435690060005217
+当前内存中的Q Table的大小: 1056
+当前 Epsilon: 0.79453
+利用次数: 3, 探索次数: 9
+Q-Table saved to q_table.pkl
+回合: 12000, 平均奖励: 0.002333527793982832
+当前内存中的Q Table的大小: 1057
+当前 Epsilon: 0.78663
+利用次数: 9, 探索次数: 19
+Q-Table saved to q_table.pkl
+回合: 12500, 平均奖励: 0.0019201536122889832
+当前内存中的Q Table的大小: 1059
+当前 Epsilon: 0.77880
+利用次数: 4, 探索次数: 20
+Q-Table saved to q_table.pkl
+回合: 13000, 平均奖励: 0.0012308639126086623
+当前内存中的Q Table的大小: 1060
+当前 Epsilon: 0.77105
+利用次数: 3, 探索次数: 13
+Q-Table saved to q_table.pkl
+回合: 13500, 平均奖励: 0.0012593525446329358
+当前内存中的Q Table的大小: 1062
+当前 Epsilon: 0.76338
+利用次数: 3, 探索次数: 14
+Q-Table saved to q_table.pkl
+回合: 14000, 平均奖励: 0.0007143367383384528
+当前内存中的Q Table的大小: 1063
+当前 Epsilon: 0.75578
+利用次数: 2, 探索次数: 8
+Q-Table saved to q_table.pkl
+回合: 14500, 平均奖励: 0.0011035243809917926
+当前内存中的Q Table的大小: 1065
+当前 Epsilon: 0.74826
+利用次数: 4, 探索次数: 12
+Q-Table saved to q_table.pkl
+回合: 15000, 平均奖励: 0.0008667244482965531
+当前内存中的Q Table的大小: 1065
+当前 Epsilon: 0.74082
+利用次数: 4, 探索次数: 9
+Q-Table saved to q_table.pkl
+回合: 15500, 平均奖励: 0.001871088457319827
+当前内存中的Q Table的大小: 1065
+当前 Epsilon: 0.73344
+利用次数: 7, 探索次数: 22
+Q-Table saved to q_table.pkl
+回合: 16000, 平均奖励: 0.0007500468779298706
+当前内存中的Q Table的大小: 1065
+当前 Epsilon: 0.72615
+利用次数: 4, 探索次数: 8
+Q-Table saved to q_table.pkl
+回合: 16500, 平均奖励: 0.0010909752106188254
+当前内存中的Q Table的大小: 1066
+当前 Epsilon: 0.71892
+利用次数: 5, 探索次数: 13
+Q-Table saved to q_table.pkl
+回合: 17000, 平均奖励: 0.0011177128066356846
+当前内存中的Q Table的大小: 1066
+当前 Epsilon: 0.71177
+利用次数: 4, 探索次数: 15
+Q-Table saved to q_table.pkl
+回合: 17500, 平均奖励: 0.0014286530658894794
+当前内存中的Q Table的大小: 1066
+当前 Epsilon: 0.70469
+利用次数: 8, 探索次数: 17
+Q-Table saved to q_table.pkl
+回合: 18000, 平均奖励: 0.0006667037057614312
+当前内存中的Q Table的大小: 1068
+当前 Epsilon: 0.69767
+利用次数: 2, 探索次数: 10
+Q-Table saved to q_table.pkl
+回合: 18500, 平均奖励: 0.0007567976647386345
+当前内存中的Q Table的大小: 1068
+当前 Epsilon: 0.69073
+利用次数: 4, 探索次数: 10
+Q-Table saved to q_table.pkl
+回合: 19000, 平均奖励: 0.0009474182851729038
+当前内存中的Q Table的大小: 1068
+当前 Epsilon: 0.68386
+利用次数: 3, 探索次数: 15
+Q-Table saved to q_table.pkl
+回合: 19500, 平均奖励: 0.0009231242627827068
+当前内存中的Q Table的大小: 1068
+当前 Epsilon: 0.67705
+利用次数: 4, 探索次数: 14
+Q-Table saved to q_table.pkl
+回合: 20000, 平均奖励: 0.000600030001500075
+当前内存中的Q Table的大小: 1068
+当前 Epsilon: 0.67032
+利用次数: 5, 探索次数: 7
+Q-Table saved to q_table.pkl
+回合: 20500, 平均奖励: 0.0011707888189667788
+当前内存中的Q Table的大小: 1068
+当前 Epsilon: 0.66365
+利用次数: 7, 探索次数: 17
+Q-Table saved to q_table.pkl
+回合: 21000, 平均奖励: 0.0007619410448116577
+当前内存中的Q Table的大小: 1069
+当前 Epsilon: 0.65704
+利用次数: 8, 探索次数: 8
+Q-Table saved to q_table.pkl
+回合: 21500, 平均奖励: 0.0007907344527652449
+当前内存中的Q Table的大小: 1069
+当前 Epsilon: 0.65051
+利用次数: 6, 探索次数: 11
+Q-Table saved to q_table.pkl
+回合: 22000, 平均奖励: 0.0005909359516341651
+当前内存中的Q Table的大小: 1069
+当前 Epsilon: 0.64403
+利用次数: 5, 探索次数: 8
+Q-Table saved to q_table.pkl
+回合: 22500, 平均奖励: 0.0006222498777723454
+当前内存中的Q Table的大小: 1070
+当前 Epsilon: 0.63763
+利用次数: 5, 探索次数: 9
+Q-Table saved to q_table.pkl
+回合: 23000, 平均奖励: 0.00039132136179833904
+当前内存中的Q Table的大小: 1070
+当前 Epsilon: 0.63128
+利用次数: 3, 探索次数: 6
+Q-Table saved to q_table.pkl
+回合: 23500, 平均奖励: 0.0010638750585131283
+当前内存中的Q Table的大小: 1070
+当前 Epsilon: 0.62500
+利用次数: 8, 探索次数: 17
+Q-Table saved to q_table.pkl
+回合: 24000, 平均奖励: 0.0005000208342014251
+当前内存中的Q Table的大小: 1070
+当前 Epsilon: 0.61878
+利用次数: 5, 探索次数: 7
+Q-Table saved to q_table.pkl
+回合: 24500, 平均奖励: 0.0006530878811380057
+当前内存中的Q Table的大小: 1070
+当前 Epsilon: 0.61262
+利用次数: 6, 探索次数: 10
+Q-Table saved to q_table.pkl
+回合: 25000, 平均奖励: 0.0005600224008960358
+当前内存中的Q Table的大小: 1070
+当前 Epsilon: 0.60653
+利用次数: 6, 探索次数: 8
+Q-Table saved to q_table.pkl
+训练完成！
+
+--- Inspecting Q-Table ---
+State: (1, 2, 6, 2), Q-Values (Left, Right): [19.99969866 19.99928855]
+State: (1, 3, 6, 1), Q-Values (Left, Right): [19.99961115 19.99025869]
+State: (2, 3, 5, 0), Q-Values (Left, Right): [20. 20.]
+State: (2, 3, 4, 0), Q-Values (Left, Right): [19.99999999 20.        ]
+State: (2, 3, 3, 0), Q-Values (Left, Right): [19.99999999 20.        ]
+Total entries in Q-Table: 1070
+--------------------------
+
+
+[1,1,8,3],50000/1000,0.99995,有位置惩罚
+回合: 1000, 平均奖励: 0.014997459948062897
+回合: 2000, 平均奖励: 0.004996550269424915
+回合: 3000, 平均奖励: 0.0076570357196033
+回合: 4000, 平均奖励: 0.005496230907738209
+回合: 5000, 平均奖励: 0.00279903132468462
+回合: 6000, 平均奖励: 0.011970192193984985
+回合: 7000, 平均奖励: 0.002712497254833579
+回合: 8000, 平均奖励: 0.007368876598775387
+回合: 9000, 平均奖励: 0.008402633480727673
+回合: 10000, 平均奖励: 0.0023980201222002506
+回合: 11000, 平均奖励: 0.0022706796880811453
+回合: 12000, 平均奖励: 0.011006377637386322
+回合: 13000, 平均奖励: 0.001458813901990652
+回合: 14000, 平均奖励: 0.0011421708622947335
+回合: 15000, 平均奖励: 0.0033898744732141495
+回合: 16000, 平均奖励: 0.0016867306549102068
+回合: 17000, 平均奖励: 0.00240921787917614
+回合: 18000, 平均奖励: 0.002718205563724041
+回合: 19000, 平均奖励: 0.007812715135514736
+回合: 20000, 平均奖励: 0.0019962370861321688
+回合: 21000, 平均奖励: 0.002427413361147046
+回合: 22000, 平均奖励: 0.0014068168820813298
+回合: 23000, 平均奖励: 0.0011719055473804474
+回合: 24000, 平均奖励: 0.0008316790917888284
+回合: 25000, 平均奖励: 0.0006389881600625813
+回合: 26000, 平均奖励: 0.0016511342255398631
+回合: 27000, 平均奖励: 0.0005922645214013755
+回合: 28000, 平均奖励: 0.0007848904351703823
+回合: 29000, 平均奖励: 0.0008954921504482627
+回合: 30000, 平均奖励: 0.00039932411164045334
+回合: 31000, 平均奖励: 0.0002900190884247422
+回合: 32000, 平均奖励: 0.0006553438142873347
+回合: 33000, 平均奖励: 0.0007263060542754829
+回合: 34000, 平均奖励: 0.00046963486238382757
+回合: 35000, 平均奖励: 0.0006848092889413238
+回合: 36000, 平均奖励: 0.0003885131736751646
+回合: 37000, 平均奖励: 0.0005942759453319013
+回合: 38000, 平均奖励: 0.0004471059364732355
+回合: 39000, 平均奖励: 0.000333052797941491
+回合: 40000, 平均奖励: 0.0009234183235093951
+回合: 41000, 平均奖励: 0.0006095185526646674
+回合: 42000, 平均奖励: 0.0003327124286442995
+回合: 43000, 平均奖励: 0.0029884863179177046
+回合: 44000, 平均奖励: 0.0005450128810480237
+回合: 45000, 平均奖励: 0.00019965381943620741
+回合: 46000, 平均奖励: 0.0005214823177084327
+回合: 47000, 平均奖励: 0.0005103169241920114
+回合: 48000, 平均奖励: 0.00045803101966157556
+回合: 49000, 平均奖励: 0.00038732984103262424
+回合: 50000, 平均奖励: 0.0005593620589934289
+
+DQN
+Episode 50/600, Duration: 12
+Episode 100/600, Duration: 21
+Episode 150/600, Duration: 62
+Episode 200/600, Duration: 109
+Episode 250/600, Duration: 145
+Episode 300/600, Duration: 10
+Episode 350/600, Duration: 9
+Episode 400/600, Duration: 167
+Episode 450/600, Duration: 139
+Episode 500/600, Duration: 110
+Episode 550/600, Duration: 115
+Episode 600/600, Duration: 156
+
+DQN(详细日志)
+==================== Episode 50/600 ====================
+最近50回合平均奖励: 21.94
+探索/利用分析 (最近50回合):
+  - 探索次数: 937
+  - 利用次数: 160 (14.6%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 4.43
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 1097 / 30000
+
+==================== Episode 100/600 ====================
+最近50回合平均奖励: 20.76
+探索/利用分析 (最近50回合):
+  - 探索次数: 804
+  - 利用次数: 234 (22.5%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 8.90
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 2135 / 30000
+
+==================== Episode 150/600 ====================
+最近50回合平均奖励: 54.00
+探索/利用分析 (最近50回合):
+  - 探索次数: 1764
+  - 利用次数: 936 (34.7%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 20.57
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 4835 / 30000
+
+==================== Episode 200/600 ====================
+最近50回合平均奖励: 88.84
+探索/利用分析 (最近50回合):
+  - 探索次数: 2082
+  - 利用次数: 2360 (53.1%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 38.03
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 9277 / 30000
+
+==================== Episode 250/600 ====================
+最近50回合平均奖励: 113.16
+探索/利用分析 (最近50回合):
+  - 探索次数: 1774
+  - 利用次数: 3884 (68.6%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 53.93
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 14935 / 30000
+
+==================== Episode 300/600 ====================
+最近50回合平均奖励: 158.08
+探索/利用分析 (最近50回合):
+  - 探索次数: 1415
+  - 利用次数: 6489 (82.1%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 67.36
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 22839 / 30000
+
+==================== Episode 350/600 ====================
+最近50回合平均奖励: 308.06
+探索/利用分析 (最近50回合):
+  - 探索次数: 1486
+  - 利用次数: 13917 (90.4%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 81.94
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 30000 / 30000
+
+==================== Episode 400/600 ====================
+最近50回合平均奖励: 442.64
+探索/利用分析 (最近50回合):
+  - 探索次数: 1247
+  - 利用次数: 20885 (94.4%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 97.74
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 30000 / 30000
+
+==================== Episode 450/600 ====================
+最近50回合平均奖励: 366.98
+探索/利用分析 (最近50回合):
+  - 探索次数: 917
+  - 利用次数: 17432 (95.0%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 100.92
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 30000 / 30000
+
+==================== Episode 500/600 ====================
+最近50回合平均奖励: 500.00
+探索/利用分析 (最近50回合):
+  - 探索次数: 1197
+  - 利用次数: 23803 (95.2%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 101.55
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 30000 / 30000
+
+==================== Episode 550/600 ====================
+最近50回合平均奖励: 199.12
+探索/利用分析 (最近50回合):
+  - 探索次数: 486
+  - 利用次数: 9470 (95.1%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 102.20
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 30000 / 30000
+
+==================== Episode 600/600 ====================
+最近50回合平均奖励: 484.58
+探索/利用分析 (最近50回合):
+  - 探索次数: 1232
+  - 利用次数: 22997 (94.9%)
+
+--- Q值检测 ---
+对 128 个随机状态的平均最大Q值估算: 101.37
+---------------
+
+--- 记忆宫殿抽查 ---
+当前容量: 30000 / 30000
+训练完成!
+
+DDPG 
+Episode: 20/200, Reward: -1240.75
+Episode: 40/200, Reward: -959.442
+Episode: 60/200, Reward: -286.56
+Episode: 80/200, Reward: -124.37
+Episode: 100/200, Reward: -357.82
+Episode: 120/200, Reward: -248.07
+Episode: 140/200, Reward: -250.11
+Episode: 160/200, Reward: -250.75
+Episode: 180/200, Reward: -125.81
+Episode: 200/200, Reward: -115.67
+
+DDPG2
+Episode: 20/200, Reward: -1351.56
+Episode: 40/200, Reward: -1683.36
+Episode: 60/200, Reward: -1157.59
+Episode: 80/200, Reward: -1053.82
+Episode: 100/200, Reward: -1126.30
+Episode: 120/200, Reward: -880.283
+Episode: 140/200, Reward: -1300.07
+Episode: 160/200, Reward: -690.195
+Episode: 180/200, Reward: -247.44
+Episode: 200/200, Reward: -248.12
+
+Episode: 20/200, Reward: -869.171
+Episode: 40/200, Reward: -645.207
+Episode: 60/200, Reward: -274.56
+Episode: 80/200, Reward: -370.31
+Episode: 100/200, Reward: -10.018
+Episode: 120/200, Reward: -1.3479
+Episode: 140/200, Reward: -118.99
+Episode: 160/200, Reward: -373.30
+Episode: 180/200, Reward: -120.63
+Episode: 200/200, Reward: -336.23
+
+增加了最优模型保存：
+==============================
+开始训练...
+==============================
+Episode: 1/200, Reward: -1424.70模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 1 回合，最佳奖励: -1424.70。模型已保存！
+Episode: 10/200, Reward: -1423.48模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 10 回合，最佳奖励: -1423.48。模型已保存！
+Episode: 11/200, Reward: -1358.68模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 11 回合，最佳奖励: -1358.68。模型已保存！
+Episode: 12/200, Reward: -1232.25模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 12 回合，最佳奖励: -1232.25。模型已保存！
+Episode: 20/200, Reward: -1205.06
+模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 20 回合，最佳奖励: -1205.06。模型已保存！
+Episode: 21/200, Reward: -1168.03模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 21 回合，最佳奖励: -1168.03。模型已保存！
+Episode: 23/200, Reward: -1081.23模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 23 回合，最佳奖励: -1081.23。模型已保存！
+Episode: 25/200, Reward: -914.52模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 25 回合，最佳奖励: -914.52。模型已保存！
+Episode: 26/200, Reward: -860.87模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 26 回合，最佳奖励: -860.87。模型已保存！
+Episode: 28/200, Reward: -798.39模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 28 回合，最佳奖励: -798.39。模型已保存！
+Episode: 29/200, Reward: -791.93模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 29 回合，最佳奖励: -791.93。模型已保存！
+Episode: 30/200, Reward: -789.06模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 30 回合，最佳奖励: -789.06。模型已保存！
+Episode: 31/200, Reward: -655.91模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 31 回合，最佳奖励: -655.91。模型已保存！
+Episode: 40/200, Reward: -756.42
+Episode: 60/200, Reward: -766.72
+Episode: 68/200, Reward: -653.82模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 68 回合，最佳奖励: -653.82。模型已保存！
+Episode: 70/200, Reward: -638.54模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 70 回合，最佳奖励: -638.54。模型已保存！
+Episode: 76/200, Reward: -638.41模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 76 回合，最佳奖励: -638.41。模型已保存！
+Episode: 78/200, Reward: -637.91模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 78 回合，最佳奖励: -637.91。模型已保存！
+Episode: 80/200, Reward: -640.30
+Episode: 82/200, Reward: -636.06模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 82 回合，最佳奖励: -636.06。模型已保存！
+Episode: 83/200, Reward: -635.80模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 83 回合，最佳奖励: -635.80。模型已保存！
+Episode: 85/200, Reward: -582.25模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 85 回合，最佳奖励: -582.25。模型已保存！
+Episode: 86/200, Reward: -548.89模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 86 回合，最佳奖励: -548.89。模型已保存！
+Episode: 87/200, Reward: -546.29模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 87 回合，最佳奖励: -546.29。模型已保存！
+Episode: 89/200, Reward: -515.32模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 89 回合，最佳奖励: -515.32。模型已保存！
+Episode: 90/200, Reward: -511.67模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 90 回合，最佳奖励: -511.67。模型已保存！
+Episode: 99/200, Reward: -508.69模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 99 回合，最佳奖励: -508.69。模型已保存！
+Episode: 100/200, Reward: -1200.62
+Episode: 101/200, Reward: -385.00模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 101 回合，最佳奖励: -385.00。模型已保存！
+Episode: 102/200, Reward: -384.64模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 102 回合，最佳奖励: -384.64。模型已保存！
+Episode: 112/200, Reward: -254.91模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 112 回合，最佳奖励: -254.91。模型已保存！
+Episode: 113/200, Reward: -125.87模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 113 回合，最佳奖励: -125.87。模型已保存！
+Episode: 115/200, Reward: -124.60模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 115 回合，最佳奖励: -124.60。模型已保存！
+Episode: 119/200, Reward: -124.59模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 119 回合，最佳奖励: -124.59。模型已保存！
+Episode: 120/200, Reward: -126.42
+Episode: 140/200, Reward: -380.59
+Episode: 145/200, Reward: -124.12模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 145 回合，最佳奖励: -124.12。模型已保存！
+Episode: 146/200, Reward: -123.08模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 146 回合，最佳奖励: -123.08。模型已保存！
+Episode: 148/200, Reward: -122.39模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 148 回合，最佳奖励: -122.39。模型已保存！
+Episode: 149/200, Reward: -121.86模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 149 回合，最佳奖励: -121.86。模型已保存！
+Episode: 150/200, Reward: -121.33模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 150 回合，最佳奖励: -121.33。模型已保存！
+Episode: 151/200, Reward: -120.58模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 151 回合，最佳奖励: -120.58。模型已保存！
+Episode: 160/200, Reward: -129.35
+Episode: 164/200, Reward: -118.64模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 164 回合，最佳奖励: -118.64。模型已保存！
+Episode: 165/200, Reward: -118.36模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 165 回合，最佳奖励: -118.36。模型已保存！
+Episode: 166/200, Reward: -118.34模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 166 回合，最佳奖励: -118.34。模型已保存！
+Episode: 168/200, Reward: -118.18模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 168 回合，最佳奖励: -118.18。模型已保存！
+Episode: 169/200, Reward: -117.88模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 169 回合，最佳奖励: -117.88。模型已保存！
+Episode: 180/200, Reward: -117.576
+模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 180 回合，最佳奖励: -117.57。模型已保存！
+Episode: 181/200, Reward: -117.37模型已保存到 ddpg_pendulum_best_actor.pth 和 ddpg_pendulum_best_critic.pth
+
+🎉 新纪录！发现在第 181 回合，最佳奖励: -117.37。模型已保存！
+Episode: 200/200, Reward: -126.76
+模型已保存到 ddpg_pendulum_final_actor.pth 和 ddpg_pendulum_final_critic.pth
+
+训练完成!
+
+--- 训练结束，开始即时验证保存的模型 ---
+模型权重加载成功，开始进行可视化测试...
+
+验证循环总共运行了 200 步。
+
+即时验证结束。最终奖励: -117.51
+actor jitter: 2.2353590736224196
+critic jitter: 10.105358099349491
+
+
+TD3
+Episode: 20/200, Reward: -1248.48
+Episode: 40/200, Reward: -696.259
+Episode: 60/200, Reward: -131.21
+Episode: 80/200, Reward: -260.10
+Episode: 100/200, Reward: -761.08
+Episode: 120/200, Reward: -246.09
+Episode: 140/200, Reward: -123.63
+Episode: 160/200, Reward: -127.31
+Episode: 180/200, Reward: -242.05
+Episode: 200/200, Reward: -4.5799
+模型已保存到 td3_pendulum_actor.pth 和 td3_pendulum_critic1/2.pth
+
+训练完成!
+td3 reward jitter: 428.252520
+td3 actor jitter: 1.817514
+td3 critic jitter: 15.249531
+
+SAC
+==============================
+开始训练...
+==============================
+Episode: 20/200, Reward: -1195.41
+Episode: 40/200, Reward: -465.665
+Episode: 60/200, Reward: -124.29
+Episode: 80/200, Reward: -120.07
+Episode: 100/200, Reward: -117.95
+Episode: 120/200, Reward: -125.28
+Episode: 140/200, Reward: -239.95
+Episode: 160/200, Reward: -120.27
+Episode: 180/200, Reward: -249.54
+Episode: 200/200, Reward: -124.48
+模型已保存到 sac_pendulum_actor.pth 和 sac_pendulum_critic1/2.pth
+
+训练完成!
+sac reward jitter: 241.501076
+sac actor jitter: 1.644286
+sac critic jitter: 7.794637
+sac alphas jitter: 0.004785
